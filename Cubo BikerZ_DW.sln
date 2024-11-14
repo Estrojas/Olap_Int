@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Cubo BikerZ_DW", "Cubo BikerZ_DW\Cubo BikerZ_DW.dwproj", "{B1C246A3-6F7B-49BB-8156-A765F74F9F26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1C246A3-6F7B-49BB-8156-A765F74F9F26}.Development|Default.ActiveCfg = Development
+		{B1C246A3-6F7B-49BB-8156-A765F74F9F26}.Development|Default.Build.0 = Development
+		{B1C246A3-6F7B-49BB-8156-A765F74F9F26}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A3428DC-9951-42E6-A9F1-8DA167996A9D}
+	EndGlobalSection
+EndGlobal
